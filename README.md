@@ -1,2 +1,2 @@
 # my-assistant
-i was created google assistanct not only same but I tried  for creating clone like google assistant because recently i complete my html,css adn javascript that's why i created this one clone
+I was created google assistanct not only same but I tried  for creating clone like google assistant because recently I completed my html,css adn javascript that's why I created this one clone
