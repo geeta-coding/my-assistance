@@ -77,3 +77,15 @@ else if (transcript.includes("search ")) {
 startBtn.addEventListener('click', () => {
   recognition.start();
 });
+
+const menuButton = document.getElementById("menuButton");
+const driveMenu = document.getElementById("driveMenu");
+
+menuButton.onclick = function () {
+  if (driveMenu.style.display === "none" || driveMenu.style.display === "") {
+    driveMenu.style.display = "block"; // Show the menu he aaplyala disen
+  } else {
+    driveMenu.style.display = "none";  // Hide the menudrive kel
+  }
+};
+
